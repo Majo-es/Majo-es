@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Majo-es
+- 👋 Hi, I’m @Majo-es [Tech x Fashion]
 - 👀 I’m interested in computer graphics, web design, and creative code. 
 - 🌱 I’m currently learning a bit of everything. 
 
