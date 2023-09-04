@@ -1,9 +1,12 @@
 ![c19e02c1-4086-7ace-e1f0-06206f91548b](https://github.com/Majo-es/Majo-es/assets/43044338/04a13209-35f6-4d6f-a675-33f0d1950ffe)
 
-<h2>👩‍💻 I’m <em> @Majo-es </em> [Tech x Fashion]</h2>
-- Junior UX Designer & Researcher
-- 👀 I’m interested in computer graphics, web design, and creative code. 
-- 🌱 I’m currently learning a bit of everything.
+<h2> I’m <em> @Majo-es </em> [Tech x Fashion]</h2>
+<ul> 
+<il> 👩‍💻 Junior UX Designer & Researcher. </il>
+<il> 👀 I’m interested in computer graphics, web design, and creative code. </il>  
+<il> 🌱 I’m currently learning a bit of everything.</il>  
+</ul>
+
 
 <h6 align="left">Languages and Tools:</h6>
 
