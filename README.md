@@ -1,6 +1,6 @@
 ![c19e02c1-4086-7ace-e1f0-06206f91548b](https://github.com/Majo-es/Majo-es/assets/43044338/04a13209-35f6-4d6f-a675-33f0d1950ffe)
 
-<h2> I’m <em> @Majo-es </em> [Tech x Fashion]</h2>
+<h2> Hi 👋,  I’m <em> @Majo-es </em> [Tech x Fashion]</h2>
 
  👩‍💻 Junior UX Designer & Researcher. 
   
