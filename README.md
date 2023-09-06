@@ -23,6 +23,6 @@
 ![giphyjundog](https://user-images.githubusercontent.com/43044338/227368857-52958296-7b7b-4c2e-a591-c3a4899cf493.gif) 
 
 
+<!-- ![octocat](https://github.com/Majo-es/Majo-es/assets/43044338/47a69978-5535-429e-af20-710ef7b84486)--> 
 
-
-![octocat](https://github.com/Majo-es/Majo-es/assets/43044338/47a69978-5535-429e-af20-710ef7b84486)
+<img alt="Image of my Octocat wearing sunglasses, a flower crown, black Converse and an Aloha shirt" src= "https://github.com/Majo-es/Majo-es/assets/43044338/47a69978-5535-429e-af20-710ef7b84486.png" width=50% height=50%>
