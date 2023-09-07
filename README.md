@@ -4,7 +4,7 @@
 
  👩‍💻 Junior UX Designer & Researcher. 
   
- 👀 I’m interested in computer graphics, web design, and creative code. 
+ 👀 I’m interested in computer graphics, web design, creative code, and DS. 
 
  🌱 I’m currently learning a bit of everything. 
 
