@@ -10,8 +10,6 @@
   
  👀 I’m interested in computer graphics, web design, creative code, and DS. 
 
- 🌱 I’m currently learning a bit of everything. 
-
 
 <h6 align="left">Languages:</h6>
 <div align="left">
