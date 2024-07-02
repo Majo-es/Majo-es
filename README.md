@@ -58,8 +58,7 @@
 <div align="center">
     <p>
         <img src="https://user-images.githubusercontent.com/43044338/227368857-52958296-7b7b-4c2e-a591-c3a4899cf493.gif " alt="giphy jundog" width=30% height=30%/>
-     <img src= "https://github.com/Majo-es/Majo-es/assets/43044338/47a69978-5535-429e-af20-710ef7b84486.png" alt="Image of my Octocat wearing sunglasses, a flower crown, black Converse and an Aloha shirt" width=20% height=20%>
-        <img src="https://www.codedex.io/api/petStatus?user=mje" alt="my pet" width=15% height=15%//> 
+     <img src= "https://github.com/Majo-es/Majo-es/assets/43044338/47a69978-5535-429e-af20-710ef7b84486.png" alt="Image of my Octocat wearing sunglasses, a flower crown, black Converse and an Aloha shirt" width=20% height=20%> 
     </p>
 </div>
 
