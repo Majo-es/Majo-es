@@ -4,7 +4,7 @@
     </p>
 </div>
 
-<h2> Hi 👋,  I’m <em> @Majo-es </em> [Tech x Fashion]</h2>
+<h2> Hi 👋,  I’m <em> @Majo-es </em> [STEM x Fashion]</h2>
 
  👩‍💻 Junior UX Designer & Researcher. 
   
