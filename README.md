@@ -14,7 +14,7 @@
 <h6 align="left">Languages:</h6>
 <div align="left">
   <img src="https://github.com/Majo-es/Majo-es/assets/43044338/6d2bd00d-4a3e-40fd-a034-5a0f87ad875e" alt="HTML5 icon from icons8" width=5% height=5%/>
- <img src="https://github.com/Majo-es/Majo-es/assets/43044338/59124179-0fab-4a9e-8b5d-93b9aef9577e" alt="CSS3 icon from icons8" width=5% height=5%/>
+ <img src="https://github.com/user-attachments/assets/fce36d5c-631c-4929-a1f1-ad8cb6f42c6f" alt="CSS icon from icons8" width=5% height=5%/>
  <img src="https://github.com/Majo-es/Majo-es/assets/43044338/fa957f2b-1a23-409f-b638-24a28f85387a" alt="JavaScript icon from icons8" width=5% height=5%/>
   <img src="https://github.com/Majo-es/Majo-es/assets/43044338/7a641173-ea65-49cc-af75-2ffdf558c346" alt="Python icon from icons8" width=5% height=5%/>
  <img src="https://github.com/Majo-es/Majo-es/assets/43044338/65409a55-a10b-4be1-b78e-71d922b9f208" alt="R icon from icons8" width=5% height=5%/>
