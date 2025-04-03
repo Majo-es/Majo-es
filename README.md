@@ -6,7 +6,7 @@
 
 <h2> Hi 👋,  I’m <em> @Majo-es </em> [STEM x Fashion]</h2>
 
- 👩‍💻 Junior UX Designer & Researcher. 
+ 👩‍💻 UX Designer & Researcher. 
   
  👀 I’m interested in computer graphics, web design, creative code, and DS. 
 
