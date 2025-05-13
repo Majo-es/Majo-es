@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 </div> -->
 
+
 <!-- <h6 align="left">Tools:</h6>
 <div align="left">
  <img src = "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
@@ -61,7 +62,6 @@
      <img src= "https://github.com/Majo-es/Majo-es/assets/43044338/47a69978-5535-429e-af20-710ef7b84486.png" alt="Image of my Octocat wearing sunglasses, a flower crown, black Converse and an Aloha shirt" width=20% height=20%> 
     </p>
 </div>
-
 
 
   
