@@ -1,8 +1,16 @@
-<div align="center">
+<!-- <div align="center">
     <p>
      <img src= "https://github.com/Majo-es/Majo-es/assets/43044338/04a13209-35f6-4d6f-a675-33f0d1950ffe.png" alt="Hello World Banner" width=50% height=50%>
     </p>
+</div> -->
+
+
+<div align="center">
+    <p>
+     <img src= "https://github.com/user-attachments/assets/60f1a7bf-23e8-4509-9019-c29c8d64b25b" alt="Word Cloud" width=50% height=50%>
+    </p>
 </div>
+
 
 <h2> Hi 👋,  I’m <em> @Majo-es </em> [STEM x Fashion]</h2>
 
