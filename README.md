@@ -7,7 +7,7 @@
 
 <div align="center">
     <p>
-     <img src= "https://github.com/user-attachments/assets/60f1a7bf-23e8-4509-9019-c29c8d64b25b" alt="Word Cloud" width=50% height=50%>
+     <img src= "https://github.com/user-attachments/assets/823d675b-312e-4a03-a1d4-0d3db650dd29" alt="Word Cloud" width=50% height=50%>
     </p>
 </div>
 
