@@ -33,13 +33,13 @@
 <h6 align="left">Tools:</h6>
 <div align="left">
 <img src = "https://github.com/Majo-es/Majo-es/assets/43044338/5d711b3b-211b-429a-be7b-62bde7f56d7e" alt="Tableau Logo from icons8" width=5% height=5%/>
+ <img src = "https://github.com/user-attachments/assets/2c00a62f-46d9-4d80-8724-e110467ff45c" alt="Power BI Logo from icons8" width=5% height=5%/>   
  <img src="https://github.com/Majo-es/Majo-es/assets/43044338/f9254859-59b5-4b04-9992-627eaf7b9216" alt="Figma Logo from icons8" width=5% height=5%/>
 <img src="https://github.com/Majo-es/Majo-es/assets/43044338/df908d35-d29c-454b-b540-e4213fafb0d7" alt="Canva Logo from icons8" width=5% height=5%/>
  <img src="https://github.com/Majo-es/Majo-es/assets/43044338/c448348b-093d-4c18-af02-bf883740f8a2" alt="Trello Logo from icons8" width=5% height=5%/>
   <img src="https://github.com/Majo-es/Majo-es/assets/43044338/7800863a-adf4-4318-a40d-0ab12b6fec43" alt="Miro Logo from icons8" width=5% height=5%/>
  <img src="https://github.com/Majo-es/Majo-es/assets/43044338/3035f789-0e21-4ec4-ab32-9b56e414f1c9" alt="Notion Logo from icons8" width=5% height=5%/>
 </div>
-
 
 <!-- <h6 align="left">Languages:</h6>
 <div align="left">
