@@ -19,7 +19,7 @@
  👀 I’m interested in computer graphics, web design, creative code, and DS. 
 
 
-<h6 align="left">Languages:</h6>
+<h5 align="left">Languages:</h5>
 <div align="left">
   <img src="https://github.com/Majo-es/Majo-es/assets/43044338/6d2bd00d-4a3e-40fd-a034-5a0f87ad875e" alt="HTML5 icon from icons8" width="40" height="40"/>
  <img src="https://github.com/user-attachments/assets/fce36d5c-631c-4929-a1f1-ad8cb6f42c6f" alt="CSS icon from icons8"width="40" height="40"/>
@@ -30,12 +30,17 @@
   <img src="https://github.com/Majo-es/Majo-es/assets/43044338/dc37f937-3a4f-4e89-88d5-4c5113f35344" alt="Swift icon from icons8" width="40" height="40"/>
 </div>
 
-<h6 align="left">Tools:</h6>
+<h5 align="left">Tools & Platforms:</h5>
 <div align="left">
-<img src = "https://github.com/Majo-es/Majo-es/assets/43044338/5d711b3b-211b-429a-be7b-62bde7f56d7e" alt="Tableau Logo from icons8" width="40" height="40"/>
- <img src = "https://github.com/user-attachments/assets/2c00a62f-46d9-4d80-8724-e110467ff45c" alt="Power BI Logo from icons8" width="40" height="40"/>   
- <img src="https://github.com/Majo-es/Majo-es/assets/43044338/f9254859-59b5-4b04-9992-627eaf7b9216" alt="Figma Logo from icons8" width="40" height="40"/>
+    <h6 align="left"> DESIGN & PROTOTYPING: </h6>
+    <img src="https://github.com/Majo-es/Majo-es/assets/43044338/f9254859-59b5-4b04-9992-627eaf7b9216" alt="Figma Logo from icons8" width="40" height="40"/>
 <img src="https://github.com/Majo-es/Majo-es/assets/43044338/df908d35-d29c-454b-b540-e4213fafb0d7" alt="Canva Logo from icons8" width="40" height="40"/>
+
+<h6 align="left"> DATA VISUALIZATION: </h6>
+<img src = "https://github.com/Majo-es/Majo-es/assets/43044338/5d711b3b-211b-429a-be7b-62bde7f56d7e" alt="Tableau Logo from icons8" width="40" height="40"/>
+ <img src = "https://github.com/user-attachments/assets/2c00a62f-46d9-4d80-8724-e110467ff45c" alt="Power BI Logo from icons8" width="40" height="40"/>  
+
+  <h6 align="left"> PRODUCTIVITY & COLLABORATION: </h6>
  <img src="https://github.com/Majo-es/Majo-es/assets/43044338/c448348b-093d-4c18-af02-bf883740f8a2" alt="Trello Logo from icons8" width="40" height="40"/>
   <img src="https://github.com/Majo-es/Majo-es/assets/43044338/7800863a-adf4-4318-a40d-0ab12b6fec43" alt="Miro Logo from icons8" width="40" height="40"/>
  <img src="https://github.com/Majo-es/Majo-es/assets/43044338/3035f789-0e21-4ec4-ab32-9b56e414f1c9" alt="Notion Logo from icons8" width="40" height="40"/>
@@ -53,7 +58,7 @@
 </div> -->
 
 
-<!-- <h6 align="left">Tools:</h6>
+<!-- <h6 align="left">Tools & Platforms:</h6>
 <div align="left">
  <img src = "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
