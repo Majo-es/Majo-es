@@ -19,15 +19,20 @@
  👀 I’m interested in computer graphics, web design, creative code, and DS. 
 
 
-<h5 align="left">Languages:</h5>
+<h5 align="left"> Tech Skills:</h5>
 <div align="left">
-  <img src="https://github.com/Majo-es/Majo-es/assets/43044338/6d2bd00d-4a3e-40fd-a034-5a0f87ad875e" alt="HTML5 icon from icons8" width="40" height="40"/>
- <img src="https://github.com/user-attachments/assets/fce36d5c-631c-4929-a1f1-ad8cb6f42c6f" alt="CSS icon from icons8"width="40" height="40"/>
- <img src="https://github.com/Majo-es/Majo-es/assets/43044338/fa957f2b-1a23-409f-b638-24a28f85387a" alt="JavaScript icon from icons8" width="40" height="40"/>
+<h6 align="left"> PROGRAMMING LANGUAGES:</h6>
   <img src="https://github.com/Majo-es/Majo-es/assets/43044338/7a641173-ea65-49cc-af75-2ffdf558c346" alt="Python icon from icons8" width="40" height="40"/>
  <img src="https://github.com/Majo-es/Majo-es/assets/43044338/65409a55-a10b-4be1-b78e-71d922b9f208" alt="R icon from icons8" width="40" height="40"/>
-  <img src="https://github.com/Majo-es/Majo-es/assets/43044338/4758c69e-6da8-4b84-9a7b-242fa3150e1c" alt="MySQL icon from icons8" width="40" height="40"/>
+ <img src="https://github.com/Majo-es/Majo-es/assets/43044338/fa957f2b-1a23-409f-b638-24a28f85387a" alt="JavaScript icon from icons8" width="40" height="40"/>
   <img src="https://github.com/Majo-es/Majo-es/assets/43044338/dc37f937-3a4f-4e89-88d5-4c5113f35344" alt="Swift icon from icons8" width="40" height="40"/>
+
+<h6 align="left"> DATABASE:</h6>
+  <img src="https://github.com/Majo-es/Majo-es/assets/43044338/4758c69e-6da8-4b84-9a7b-242fa3150e1c" alt="MySQL icon from icons8" width="40" height="40"/>
+
+<h6 align="left">WEB TECHNOLOGIES:</h6>
+<img src="https://github.com/Majo-es/Majo-es/assets/43044338/6d2bd00d-4a3e-40fd-a034-5a0f87ad875e" alt="HTML5 icon from icons8" width="40" height="40"/>
+ <img src="https://github.com/user-attachments/assets/fce36d5c-631c-4929-a1f1-ad8cb6f42c6f" alt="CSS icon from icons8"width="40" height="40"/>
 </div>
 
 <h5 align="left">Tools & Platforms:</h5>
