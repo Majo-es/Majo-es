@@ -16,7 +16,7 @@
 
 <h2> Hi 👋,  I’m <em> @Majo-es </em> [STEM x Fashion]</h2>
 
- 👩‍💻 UX Designer & Researcher/ Data Analyst 
+ 👩‍💻 UX Designer & Researcher/ Data Analyst/ Logistics and International Trade Analyst
   
  👀 I’m interested in computer graphics, web design, creative code, and DS. 
 
