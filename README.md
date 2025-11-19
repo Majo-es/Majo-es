@@ -7,9 +7,11 @@
 
 <div align="center">
     <p>
-     <img src= "https://github.com/user-attachments/assets/823d675b-312e-4a03-a1d4-0d3db650dd29" alt="Word Cloud" width="500" height="500">
+     <img src= "https://github.com/user-attachments/assets/1931b43d-05cb-4ce2-b318-53eac9a9708f" alt="Word Cloud" width="500" height="500">
     </p>
 </div>
+
+
 
 
 <h2> Hi 👋,  I’m <em> @Majo-es </em> [STEM x Fashion]</h2>
